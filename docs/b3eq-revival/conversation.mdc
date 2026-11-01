@@ -1,0 +1,8 @@
+# Sentrifugo Revival — Conversation Log
+
+## 2026-11-01 — Portfolio audit
+- Historical b3Ɛq portfolio inventory listed Sentrifugo Revival as an HR/enterprise project.
+- Confirmed existing public repository Devf7en/sentrifugo.
+- Root README describes Sentrifugo 3.1.1 with PHP 5.3-era prerequisites; repository has 9,530 tree entries.
+- Added a b3Ɛq revival documentation track and initial assessment/roadmap. No code modernization, runtime test or security scan was performed.
+- Core Tenant/IAM and HRIS/HCM ownership must be reconciled before integrated writes.
